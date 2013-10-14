@@ -1,6 +1,6 @@
 {
   "id": "com.examples.apps.myapp",
-  "name": "github1",
+  "name": "d11d11",
   "version": "0.0.1",
   "title": "Example: My Application",
   "description": "Description of My Application",
@@ -94,10 +94,18 @@
       "plugins": {},
       "access": {
         "origin": "http://127.0.0.1"
-      }
+      },
+      "targets": {},
+      "appId": ""
     }
   },
   "preview": {
     "top_file": "/debug.html"
+  },
+  "github": {
+    "repo": "mydata",
+    "user": "seungshins",
+    "ref": "heads/master",
+    "commitSha": "ace5c454d8fe6ac5d26e5ff569ded8e98c6b1f17"
   }
 }
